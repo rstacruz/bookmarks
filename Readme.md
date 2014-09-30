@@ -1,21 +1,48 @@
-Bookmarks
-=========
+Rico's Bookmarks
+================
 
-Just a list of things I find cool.
 
 2014
 ----
 
-### Online
+### Online services
 
+* [app icon template](http://appicontemplate.com/) - ios, android and osx icon templates
 * [free invoice generator](https://www.free-invoice-generator.com/) - invoice template
 * [ngrok](https://ngrok.com/) - localhost tunnel
-
-### Misc
-
 * [spinkit](http://tobiasahlin.com/spinkit/) - css spinners
+* [online yaml parser](http://yaml-online-parser.appspot.com/) - yaml to json
+* [js-yaml demo](https://nodeca.github.io/js-yaml/)
+* [youarelistening.to](http://youarelistening.to/sanfrancisco) - ambient music with police radio
+* [ambientsleepingpill](http://ambientsleepingpill.com/) - ambient radio
 
-### Frontend
+### Articles
+
+* [Publishing gh-pages with travis-ci](https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db)
+
+### Job boards
+
+* [workinstartups.com](http://workinstartups.com/)
+* [weworkremotely.com](http://weworkremotely.com/)
+
+### Usual Express.js middleware
+
+* [serve-static](https://github.com/expressjs/serve-static) - default static server
+* [st](https://github.com/isaacs/st) - better static serving
+* [morgan](https://github.com/expressjs/morgan) - http request logger
+* [session](https://github.com/expressjs/session) - simple sessions
+* [body-parser](https://github.com/expressjs/body-parser) - parse json bodies
+* [errorhandler](https://github.com/expressjs/errorhandler) - development error handler
+* [compression](https://github.com/expressjs/compression) - on-the-fly gzip compression
+
+### Fonts
+
+* [Dosis](http://www.google.com/fonts/specimen/Dosis) - geometric sans, caps
+* [Fjalla One](http://www.google.com/fonts/specimen/Fjalla+One) - gothic sans, caps
+* [Fira Sans](http://www.google.com/fonts/specimen/Fira+Sans) - sans, body text, eyeglass *g*, [specimen](http://mozilla.github.io/Fira/), [carrois](http://www.carrois.com/fira-3-1/)
+* [Input](http://input.fontbureau.com/) - monospace, code
+ 
+### Frontend packages
 
 * [html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - pure CSS devices
 * [devices.css](http://marvelapp.github.io/devices.css/) - pure CSS devices
@@ -49,8 +76,10 @@ Just a list of things I find cool.
 
 ### Node.js
 
+* [mocha-jshint](https://github.com/Muscula/mocha-jshint) - invoke jshint as mocha tests
 * [rc](https://www.npmjs.org/package/rc) - cli configuration loader
 * [clivas](https://github.com/mafintosh/clivas) - cli drawing
+* [peerflix](https://github.com/mafintosh/peerflix) - stream torrent videos to airplay/vlc
 * [ase](https://npmjs.org/package/ase) - maintains a distributed network
 * [configstore](https://github.com/yeoman/configstore) - store config in ~/.config/x/y
 * [marked](https://npmjs.org/package/marked) - markdown
