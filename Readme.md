@@ -76,6 +76,7 @@ Rico's Bookmarks
 
 ### Node.js
 
+* [sander](https://www.npmjs.org/package/sander) - promise-based fs utilities
 * [mocha-jshint](https://github.com/Muscula/mocha-jshint) - invoke jshint as mocha tests
 * [rc](https://www.npmjs.org/package/rc) - cli configuration loader
 * [clivas](https://github.com/mafintosh/clivas) - cli drawing
@@ -97,10 +98,11 @@ Rico's Bookmarks
 
 * [rack-attack](https://github.com/kickstarter/rack-attack) - request throttling
 
-### OSX
+### OSX, via cask
 
-* [Thyme](http://joaomoreno.github.io/thyme/) - time tool - free
-* [Macdown](http://macdown.uranusjr.com/) - open-source markdown text editor
+* [Thyme](http://joaomoreno.github.io/thyme/) - time tool (free)
+* [Macdown](http://macdown.uranusjr.com/) - open-source markdown text editor (free)
+* ios7-screensaver
 
 2013
 ----
