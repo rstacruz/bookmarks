@@ -44,6 +44,7 @@ Rico's Bookmarks
  
 ### Frontend packages
 
+* [jquery-sortable](http://johnny.github.io/jquery-sortable/) - opinionated drag-and-drop sorting plugin
 * [html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - pure CSS devices
 * [devices.css](http://marvelapp.github.io/devices.css/) - pure CSS devices
 * [email templates](https://github.com/mailgun/transactional-email-templates) - transactional email templates
