@@ -33,7 +33,8 @@
 
 * [Publishing gh-pages with travis-ci](https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db)
 * [CSS conditionals guide](http://csspre.com/conditionals)
-- [CSS at large sites](http://sixrevisions.com/css/css-development-at-large-sites/) (sixrevisions.com)
+* [CSS at large sites](http://sixrevisions.com/css/css-development-at-large-sites/) (sixrevisions.com)
+* [Throw away Sprockets, use Unix](http://blog.arkency.com/2013/09/throw-away-sprockets-use-unix/)
 
 ### Development: Job boards
 
