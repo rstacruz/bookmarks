@@ -5,6 +5,8 @@
 
 * [shape-outside](https://developer.mozilla.org/en-US/docs/Web/CSS/shape-outside) - css shaping
 * [branding identity mockup template](https://www.behance.net/gallery/19999279/Branding-Identity-Mock-Ups-and-Templates)
+* [angulr template](http://flatfull.com/themes/angulr/)
+* [emoji unicode table](http://apps.timwhitlock.info/emoji/tables/unicode)
 
 ### Design: Fonts
 

@@ -1,10 +1,18 @@
 JavaScript, Node.js, frontend, and other things related.
 
+2015
+----
+
+* [browserify-versionify](https://www.npmjs.com/package/browserify-versionify) - add package version in
+* [browser-upgrade-lite](https://github.com/litejs/browser-upgrade-lite) - super lightweight ES5 shim
+* [vd](https://www.npmjs.com/package/vd) - expressive dom syntax
+
 2014
 ----
 
 ### Frontend packages
 
+* [jquery.timepicker](http://jonthornton.github.io/jquery-timepicker/) - time picker
 * [strip.js](http://www.stripjs.com/) - less intrusive lightbox
 * [jquery-sortable](http://johnny.github.io/jquery-sortable/) - opinionated drag-and-drop sorting plugin
 * [html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - pure CSS devices
@@ -39,6 +47,8 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [hashmark](https://github.com/keithamus/hashmark) - adds filename hashes
+* [debug](https://github.com/visionmedia/debug) - simple debug logger
 * [katon](https://github.com/typicode/katon) - generic development server helper, like pow
 * [sander](https://www.npmjs.org/package/sander) - promise-based fs utilities
 * [mocha-jshint](https://github.com/Muscula/mocha-jshint) - invoke jshint as mocha tests
