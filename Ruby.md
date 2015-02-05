@@ -40,6 +40,7 @@
 * highline
 
 ### Ruby/Console
+
 * [pry](http://duckduckgo.com/?q=pry) - repl shell
 * [hirb](http://duckduckgo.com/?q=hirb) - tables for IRB
 * [bundler](http://duckduckgo.com/?q=bundler) - yep

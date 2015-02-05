@@ -3,14 +3,23 @@ JavaScript, Node.js, frontend, and other things related.
 2015
 ----
 
-* [browserify-versionify](https://www.npmjs.com/package/browserify-versionify) - add package version in
+### Frontend
+
+* [templayed](https://github.com/archan937/templayed.js/) - old, but very slim mustache loader
 * [browser-upgrade-lite](https://github.com/litejs/browser-upgrade-lite) - super lightweight ES5 shim
+* [overscroll](http://tholman.com/overscroll/) - easter eggs when scrolling beyond the screen edge
 * [vd](https://www.npmjs.com/package/vd) - expressive dom syntax
+
+### Node.js
+
+* [systemjs](https://github.com/systemjs/systemjs) - dynamic module loader, built in es6
+* [6to5](http://6to5.org/) - best es6 transpiler today
+* [browserify-versionify](https://www.npmjs.com/package/browserify-versionify) - add package version in
 
 2014
 ----
 
-### Frontend packages
+### Frontend
 
 * [jquery.timepicker](http://jonthornton.github.io/jquery-timepicker/) - time picker
 * [strip.js](http://www.stripjs.com/) - less intrusive lightbox
