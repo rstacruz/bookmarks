@@ -1,3 +1,11 @@
+2015
+----
+
+### Photos
+
+* [albumarium](http://albumarium.com/) (albumarium.com)
+* [list of free stock photo sites](https://ash.guru/free-stock-photos/) (ash.guru)
+
 2014
 ----
 

@@ -1,3 +1,11 @@
+2015
+----
+
+* [flip](https://github.com/pda/flip) - feature switches for your app
+* [namae](https://github.com/berkmancenter/namae) - split names into first/last 
+
+* * * *
+
 2014
 ----
 
