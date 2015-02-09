@@ -12,6 +12,8 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [ga](https://www.npmjs.com/package/ga) - server-side google analytics
+* [review](https://www.npmjs.com/package/review) - take screenshots of sites for testing
 * [systemjs](https://github.com/systemjs/systemjs) - dynamic module loader, built in es6
 * [6to5](http://6to5.org/) - best es6 transpiler today
 * [browserify-versionify](https://www.npmjs.com/package/browserify-versionify) - add package version in
