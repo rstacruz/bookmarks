@@ -5,6 +5,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [favico.js](http://lab.ejci.net/favico.js/) - favicon badges
 * [templayed](https://github.com/archan937/templayed.js/) - old, but very slim mustache loader
 * [browser-upgrade-lite](https://github.com/litejs/browser-upgrade-lite) - super lightweight ES5 shim
 * [overscroll](http://tholman.com/overscroll/) - easter eggs when scrolling beyond the screen edge
