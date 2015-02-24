@@ -13,6 +13,10 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [gulp-concat-filenames](https://www.npmjs.com/package/gulp-concat-filenames/) - makes import globbing possible
+* [object-assign](https://www.npmjs.com/package/object-assign) - ES6 Object.assign (like $.extend)
+* [brstar](https://www.npmjs.com/package/brstar) - pre-rendering browserify transformations
+* [napa](https://www.npmjs.com/package/napa) - use bower packages like npm packages
 * [ga](https://www.npmjs.com/package/ga) - server-side google analytics
 * [review](https://www.npmjs.com/package/review) - take screenshots of sites for testing
 * [systemjs](https://github.com/systemjs/systemjs) - dynamic module loader, built in es6
