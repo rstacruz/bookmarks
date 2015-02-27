@@ -5,10 +5,11 @@
 
 ### Remote work
 
-* http://jobs.remotive.io/
-* https://weworkremotely.com/
-* http://heragenda.com/the-25-best-sites-for-finding-remote-work/
-* http://itflow.biz/
+* [RemoteWork](https://github.com/fjbelchi/RemoteWork) (github.com)
+* [Remotive jobs](http://jobs.remotive.io/) (remotive.io)
+* [We Work Remotely](https://weworkremotely.com/) (weworkremotely.com)
+* [25 best sites for remote work](http://heragenda.com/the-25-best-sites-for-finding-remote-work/) (heragenda.com)
+* [itflow](http://itflow.biz/) (itflow.biz)
 
 ### Photos
 

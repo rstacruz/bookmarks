@@ -3,8 +3,14 @@ JavaScript, Node.js, frontend, and other things related.
 2015
 ----
 
+### Misc
+
+* [What have I been missing out on?](http://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo) (reddit.com)
+
 ### Frontend
 
+* [p-promise](https://www.npmjs.com/package/p-promise) - simple promise implementation
+* [zeroclipboard](https://www.npmjs.com/package/zeroclipboard) - copy text to clipboard
 * [favico.js](http://lab.ejci.net/favico.js/) - favicon badges
 * [templayed](https://github.com/archan937/templayed.js/) - old, but very slim mustache loader
 * [browser-upgrade-lite](https://github.com/litejs/browser-upgrade-lite) - super lightweight ES5 shim
@@ -13,6 +19,8 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [package-json-to-readme](https://github.com/zeke/package-json-to-readme) - parse dependencies
+* [dashdash](https://github.com/trentm/node-dashdash) - option parser
 * [gulp-concat-filenames](https://www.npmjs.com/package/gulp-concat-filenames/) - makes import globbing possible
 * [object-assign](https://www.npmjs.com/package/object-assign) - ES6 Object.assign (like $.extend)
 * [brstar](https://www.npmjs.com/package/brstar) - pre-rendering browserify transformations
@@ -20,7 +28,7 @@ JavaScript, Node.js, frontend, and other things related.
 * [ga](https://www.npmjs.com/package/ga) - server-side google analytics
 * [review](https://www.npmjs.com/package/review) - take screenshots of sites for testing
 * [systemjs](https://github.com/systemjs/systemjs) - dynamic module loader, built in es6
-* [6to5](http://6to5.org/) - best es6 transpiler today
+* [babel](http://babeljs.io/) - best es6 transpiler today
 * [browserify-versionify](https://www.npmjs.com/package/browserify-versionify) - add package version in
 
 2014
