@@ -9,6 +9,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [malarkey](https://github.com/yuanqing/malarkey) - fancy typer
 * [p-promise](https://www.npmjs.com/package/p-promise) - simple promise implementation
 * [zeroclipboard](https://www.npmjs.com/package/zeroclipboard) - copy text to clipboard
 * [favico.js](http://lab.ejci.net/favico.js/) - favicon badges
@@ -19,6 +20,9 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [changelog-maker](https://github.com/rvagg/changelog-maker) - changelog tool used by io.js
+* [xtend](https://www.npmjs.com/package/xtend) - use this for extend
+* [outpipe](https://github.com/substack/outpipe) - write output to a file using shell commands
 * [package-json-to-readme](https://github.com/zeke/package-json-to-readme) - parse dependencies
 * [dashdash](https://github.com/trentm/node-dashdash) - option parser
 * [gulp-concat-filenames](https://www.npmjs.com/package/gulp-concat-filenames/) - makes import globbing possible
