@@ -20,6 +20,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [browsersync](http://www.browsersync.io/) - livereload server
 * [changelog-maker](https://github.com/rvagg/changelog-maker) - changelog tool used by io.js
 * [xtend](https://www.npmjs.com/package/xtend) - use this for extend
 * [outpipe](https://github.com/substack/outpipe) - write output to a file using shell commands
