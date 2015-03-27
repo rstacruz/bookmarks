@@ -9,6 +9,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [number-grouper](https://www.npmjs.com/package/number-grouper) - simple number formatter
 * [malarkey](https://github.com/yuanqing/malarkey) - fancy typer
 * [p-promise](https://www.npmjs.com/package/p-promise) - simple promise implementation
 * [zeroclipboard](https://www.npmjs.com/package/zeroclipboard) - copy text to clipboard
