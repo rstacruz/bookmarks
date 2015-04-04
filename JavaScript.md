@@ -21,6 +21,10 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [make-lint](https://github.com/tj/make-lint) - makefile integration for eslint
+* [eslint](http://eslint.org/) - another linter
+* [nconf](https://www.npmjs.com/package/nconf) - configuration helper (like figaro)
+* [cli](https://github.com/chriso/cli) - rapidly build cli apps
 * [browser-sync](http://www.browsersync.io/) - livereload server
 * [changelog-maker](https://github.com/rvagg/changelog-maker) - changelog tool used by io.js
 * [xtend](https://www.npmjs.com/package/xtend) - use this for extend
