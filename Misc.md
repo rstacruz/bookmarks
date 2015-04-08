@@ -1,6 +1,7 @@
 2015
 ----
 
+* [Learn Angular.js](http://www.codecademy.com/learn/learn-angularjs) (codecademy.com)
 * [dunnnk](http://dunnnk.com/) (dunnnk.com) - product mockups
 * [watchman](https://github.com/facebook/watchman) (github.com) - file watcher
 * [Loading CSS without blocking render](http://keithclark.co.uk/articles/loading-css-without-blocking-render/) (keithclark.co.uk)

@@ -21,6 +21,9 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [mz](https://github.com/normalize/mz) - modernize node.js API to ECMA standards (promises)
+* [osmosis](https://github.com/rc0x03/node-osmosis) - web scraper
+* [yargs](https://github.com/bcoe/yargs) - argument parser
 * [make-lint](https://github.com/tj/make-lint) - makefile integration for eslint
 * [eslint](http://eslint.org/) - another linter
 * [nconf](https://www.npmjs.com/package/nconf) - configuration helper (like figaro)
@@ -40,6 +43,10 @@ JavaScript, Node.js, frontend, and other things related.
 * [systemjs](https://github.com/systemjs/systemjs) - dynamic module loader, built in es6
 * [babel](http://babeljs.io/) - best es6 transpiler today
 * [browserify-versionify](https://www.npmjs.com/package/browserify-versionify) - add package version in
+
+### Node.js streams
+
+* [stream-combiner](https://www.npmjs.com/package/stream-combiner)
 
 2014
 ----
