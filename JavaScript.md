@@ -22,6 +22,9 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [minimatch](https://www.npmjs.com/package/minimatch) - file glob matching used by npm
+* [espower-babel](https://www.npmjs.com/package/espower-babel) - babel + power-assert integration
+* [power-assert](https://www.npmjs.com/package/power-assert) - detailed test assertions
 * [mz](https://github.com/normalize/mz) - modernize node.js API to ECMA standards (promises)
 * [osmosis](https://github.com/rc0x03/node-osmosis) - web scraper
 * [yargs](https://github.com/bcoe/yargs) - argument parser

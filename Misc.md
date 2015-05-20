@@ -1,6 +1,10 @@
 2015
 ----
 
+* [Slacker](http://slacker.ngutechnology.com.au/) (ngutechnology.com.au) - post fake Slack messages
+* [Sass burger](http://joren.co/sass-burger/) (joren.co) - CSS mixin for hamburger menus
+* [Address bar colors in Chrome](http://arjunu.com/2015/04/setting-the-status-bar-color-chromes-address-bar-color-and-favicon-for-your-website-in-lollipop/) (arjunu.com)
+* [App launch guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md) (github.com)
 * [Learn Angular.js](http://www.codecademy.com/learn/learn-angularjs) (codecademy.com)
 * [dunnnk](http://dunnnk.com/) (dunnnk.com) - product mockups
 * [watchman](https://github.com/facebook/watchman) (github.com) - file watcher
