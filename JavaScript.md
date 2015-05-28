@@ -9,6 +9,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [vibrant.js](http://jariz.github.io/vibrant.js/) - extract prominent image colors
 * [headroom](http://wicky.nillia.ms/headroom.js/) - auto-hiding headers
 * [layzr](http://callmecavs.github.io/layzr.js/) - lazy loading images
 * [number-grouper](https://www.npmjs.com/package/number-grouper) - simple number formatter
