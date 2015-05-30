@@ -1,6 +1,8 @@
 2015
 ----
 
+* [TV Size to Distance](http://www.rtings.com/info/television-size-to-distance-relationship) (rtings.com) - ideal TV sizes based on viewing distance
+* [Submit](http://submit.co/) (submit.co) - where to get press coverage for your startup
 * [Formspree](https://formspree.io/) (formspree.io) - form to email, free for 1000 per month
 * [Slacker](http://slacker.ngutechnology.com.au/) (ngutechnology.com.au) - post fake Slack messages
 * [Sass burger](http://joren.co/sass-burger/) (joren.co) - CSS mixin for hamburger menus
