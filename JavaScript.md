@@ -9,6 +9,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [typogr](https://www.npmjs.com/package/typogr) - prettier ampersands and quotes and smartypants
 * [vibrant.js](http://jariz.github.io/vibrant.js/) - extract prominent image colors
 * [headroom](http://wicky.nillia.ms/headroom.js/) - auto-hiding headers
 * [layzr](http://callmecavs.github.io/layzr.js/) - lazy loading images

@@ -2,16 +2,21 @@
 ----
 
 * [TV Size to Distance](http://www.rtings.com/info/television-size-to-distance-relationship) (rtings.com) - ideal TV sizes based on viewing distance
-* [Submit](http://submit.co/) (submit.co) - where to get press coverage for your startup
 * [Formspree](https://formspree.io/) (formspree.io) - form to email, free for 1000 per month
 * [Slacker](http://slacker.ngutechnology.com.au/) (ngutechnology.com.au) - post fake Slack messages
 * [Sass burger](http://joren.co/sass-burger/) (joren.co) - CSS mixin for hamburger menus
 * [Address bar colors in Chrome](http://arjunu.com/2015/04/setting-the-status-bar-color-chromes-address-bar-color-and-favicon-for-your-website-in-lollipop/) (arjunu.com)
-* [App launch guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md) (github.com)
 * [Learn Angular.js](http://www.codecademy.com/learn/learn-angularjs) (codecademy.com)
 * [dunnnk](http://dunnnk.com/) (dunnnk.com) - product mockups
 * [watchman](https://github.com/facebook/watchman) (github.com) - file watcher
 * [Loading CSS without blocking render](http://keithclark.co.uk/articles/loading-css-without-blocking-render/) (keithclark.co.uk)
+
+### Web marketing
+
+* [App launch guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md) (github.com)
+* [Submit](http://submit.co/) (submit.co) - where to get press coverage for your startup
+* [6-month link building plan](https://moz.com/blog/the-6-month-link-building-plan-for-an-established-website) (moz.com)
+* [/r/webmarketing resource wiki](http://www.reddit.com/r/webmarketing/wiki/index) (reddit.com)
 
 ### UX
 
