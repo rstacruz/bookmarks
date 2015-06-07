@@ -7,6 +7,11 @@
 * [rupture](https://jenius.github.io/rupture/) (github.io) - media queries in stylus
 * [Loading CSS without blocking render](http://keithclark.co.uk/articles/loading-css-without-blocking-render/) (keithclark.co.uk)
 
+### App icons
+
+* [Stark icons](http://www.iconarchive.com/show/stark-icons-by-fruityth1ng.html) (iconarchive.com)
+* [The circle icons](https://www.iconfinder.com/iconsets/the-circle-icons) (iconfinder.net) - cc-by-nc
+
 ### UX
 
 * [This door is the epitome of UX](https://medium.com/my-user-experience-journey/why-this-door-is-the-best-example-of-user-experience-i-could-find-b0c22ebb6007) (medium.com)

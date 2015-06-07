@@ -5,6 +5,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Misc
 
+* [React primer](https://github.com/mikechau/react-primer-draft) (github.com)
 * [What have I been missing out on?](http://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo) (reddit.com)
 
 ### Frontend
@@ -25,6 +26,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [v8flags](https://www.npmjs.com/package/v8flags) - all available v8 flags
 * [minimatch](https://www.npmjs.com/package/minimatch) - file glob matching used by npm
 * [espower-babel](https://www.npmjs.com/package/espower-babel) - babel + power-assert integration
 * [power-assert](https://www.npmjs.com/package/power-assert) - detailed test assertions
