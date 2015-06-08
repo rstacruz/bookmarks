@@ -26,6 +26,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [nixt](https://github.com/vesln/nixt) - CLI testing
 * [v8flags](https://www.npmjs.com/package/v8flags) - all available v8 flags
 * [minimatch](https://www.npmjs.com/package/minimatch) - file glob matching used by npm
 * [espower-babel](https://www.npmjs.com/package/espower-babel) - babel + power-assert integration
