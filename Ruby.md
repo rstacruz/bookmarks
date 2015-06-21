@@ -1,6 +1,7 @@
 2015
 ----
 
+* [slop](https://rubygems.org/gems/slop) - command line args parser
 * [reform](https://github.com/apotonick/reform) - form objects decoupled from objects
 * [flip](https://github.com/pda/flip) - feature switches for your app
 * [namae](https://github.com/berkmancenter/namae) - split names into first/last 

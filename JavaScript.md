@@ -26,6 +26,10 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [get-port](https://npmjs.com/package/get-port) - get available port
+* [tildify](https://npmjs.com/package/tildify) - replace /home/user with ~ (also see untildify)
+* [update-notifier](https://npmjs.com/package/update-notifier) - sparkle for global CLI apps
+* [opener](https://npmjs.com/package/opener) - abstraction for open/xdg-open/start
 * [nixt](https://github.com/vesln/nixt) - CLI testing
 * [v8flags](https://www.npmjs.com/package/v8flags) - all available v8 flags
 * [minimatch](https://www.npmjs.com/package/minimatch) - file glob matching used by npm
