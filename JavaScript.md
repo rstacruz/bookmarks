@@ -26,6 +26,10 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [pathmodify](https://www.npmjs.com/package/pathmodify) - allow `require('app/x')` without `../` in browserify
+* [aliasify](https://github.com/benbria/aliasify) - rewrite `require('d3')` calls to `require('../shims/d3.js')` or something
+* [debowerify](https://github.com/eugeneware/debowerify) - use `require('package')` for bower components
+* [inquirer](https://www.npmjs.com/package/inquirer) - cli prompts
 * [get-port](https://npmjs.com/package/get-port) - get available port
 * [tildify](https://npmjs.com/package/tildify) - replace /home/user with ~ (also see untildify)
 * [update-notifier](https://npmjs.com/package/update-notifier) - sparkle for global CLI apps
