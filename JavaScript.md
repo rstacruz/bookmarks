@@ -10,6 +10,8 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [zenfonts](https://github.com/zengabor/zenfonts) - font loader with fouc prevention
+* [coverr](http://coverr.co/) - videos for your homepage
 * [typogr](https://www.npmjs.com/package/typogr) - prettier ampersands and quotes and smartypants
 * [vibrant.js](http://jariz.github.io/vibrant.js/) - extract prominent image colors
 * [headroom](http://wicky.nillia.ms/headroom.js/) - auto-hiding headers
@@ -26,6 +28,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [fixpack](https://github.com/henrikjoreteg/fixpack) - package.json formatter
 * [pathmodify](https://www.npmjs.com/package/pathmodify) - allow `require('app/x')` without `../` in browserify
 * [aliasify](https://github.com/benbria/aliasify) - rewrite `require('d3')` calls to `require('../shims/d3.js')` or something
 * [debowerify](https://github.com/eugeneware/debowerify) - use `require('package')` for bower components
