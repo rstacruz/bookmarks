@@ -10,6 +10,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [prettyembed](https://github.com/mike-zarandona/prettyembed.js) - embed youtube videos with custom previews and reduced controls
 * [zenfonts](https://github.com/zengabor/zenfonts) - font loader with fouc prevention
 * [coverr](http://coverr.co/) - videos for your homepage
 * [typogr](https://www.npmjs.com/package/typogr) - prettier ampersands and quotes and smartypants
