@@ -10,6 +10,8 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [dom4](http://webreflection.github.io/dom4/) - dom level 4 polyfill
+* [polyfill.io](https://cdn.polyfill.io/v1/docs/) - polyfill as a service
 * [prettyembed](https://github.com/mike-zarandona/prettyembed.js) - embed youtube videos with custom previews and reduced controls
 * [zenfonts](https://github.com/zengabor/zenfonts) - font loader with fouc prevention
 * [coverr](http://coverr.co/) - videos for your homepage
