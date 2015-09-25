@@ -31,6 +31,8 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [next-update](https://www.npmjs.com/package/next-update) - test new package versions
+* [greenkeeper](https://www.npmjs.com/package/greenkeeper) - get PR's when new dependencies are ready
 * [fixpack](https://github.com/henrikjoreteg/fixpack) - package.json formatter
 * [pathmodify](https://www.npmjs.com/package/pathmodify) - allow `require('app/x')` without `../` in browserify
 * [aliasify](https://github.com/benbria/aliasify) - rewrite `require('d3')` calls to `require('../shims/d3.js')` or something
