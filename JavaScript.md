@@ -10,6 +10,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [locally](https://github.com/ozantunca/locally) - localStorage manager with expiration and compression
 * [dom4](http://webreflection.github.io/dom4/) - dom level 4 polyfill
 * [polyfill.io](https://cdn.polyfill.io/v1/docs/) - polyfill as a service
 * [prettyembed](https://github.com/mike-zarandona/prettyembed.js) - embed youtube videos with custom previews and reduced controls
@@ -29,11 +30,18 @@ JavaScript, Node.js, frontend, and other things related.
 * [overscroll](http://tholman.com/overscroll/) - easter eggs when scrolling beyond the screen edge
 * [vd](https://www.npmjs.com/package/vd) - expressive dom syntax
 
-### Node.js
+### Node.js / CLI
 
 * [next-update](https://www.npmjs.com/package/next-update) - test new package versions
 * [greenkeeper](https://www.npmjs.com/package/greenkeeper) - get PR's when new dependencies are ready
 * [fixpack](https://github.com/henrikjoreteg/fixpack) - package.json formatter
+* [gh-annotate](https://www.npmjs.com/package/gh-annotate) - annotate history
+* [cping](https://www.npmjs.com/package/cping) - continuous ping
+* [bump-cli](https://www.npmjs.com/package/bump-cli) - bump version numbers
+
+### Node.js
+
+* [superstatic](https://www.npmjs.com/package/superstatic) - the best static server ever
 * [pathmodify](https://www.npmjs.com/package/pathmodify) - allow `require('app/x')` without `../` in browserify
 * [aliasify](https://github.com/benbria/aliasify) - rewrite `require('d3')` calls to `require('../shims/d3.js')` or something
 * [debowerify](https://github.com/eugeneware/debowerify) - use `require('package')` for bower components
