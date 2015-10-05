@@ -10,6 +10,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Frontend
 
+* [clipboard.js](http://zenorocha.github.io/clipboard.js/) - copy text to clipboard without flash
 * [locally](https://github.com/ozantunca/locally) - localStorage manager with expiration and compression
 * [dom4](http://webreflection.github.io/dom4/) - dom level 4 polyfill
 * [polyfill.io](https://cdn.polyfill.io/v1/docs/) - polyfill as a service
@@ -32,6 +33,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js / CLI
 
+* [publish-latest](https://github.com/kentcdodds/publish-latest) - publish generated files to a branch
 * [next-update](https://www.npmjs.com/package/next-update) - test new package versions
 * [greenkeeper](https://www.npmjs.com/package/greenkeeper) - get PR's when new dependencies are ready
 * [fixpack](https://github.com/henrikjoreteg/fixpack) - package.json formatter
@@ -41,6 +43,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [ms](https://github.com/rauchg/ms.js) - convert `1 day` to `86400000`
 * [superstatic](https://www.npmjs.com/package/superstatic) - the best static server ever
 * [pathmodify](https://www.npmjs.com/package/pathmodify) - allow `require('app/x')` without `../` in browserify
 * [aliasify](https://github.com/benbria/aliasify) - rewrite `require('d3')` calls to `require('../shims/d3.js')` or something
