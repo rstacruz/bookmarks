@@ -33,6 +33,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js / CLI
 
+* [npm-check](https://github.com/dylang/npm-check) - checks for outdated packages
 * [publish-latest](https://github.com/kentcdodds/publish-latest) - publish generated files to a branch
 * [next-update](https://www.npmjs.com/package/next-update) - test new package versions
 * [greenkeeper](https://www.npmjs.com/package/greenkeeper) - get PR's when new dependencies are ready
@@ -40,6 +41,11 @@ JavaScript, Node.js, frontend, and other things related.
 * [gh-annotate](https://www.npmjs.com/package/gh-annotate) - annotate history
 * [cping](https://www.npmjs.com/package/cping) - continuous ping
 * [bump-cli](https://www.npmjs.com/package/bump-cli) - bump version numbers
+
+### Node.js / CLI utilities
+
+* [cli-table](https://www.npmjs.com/package/cli-table) - tables with box drawing chars
+* [cliff](https://www.npmjs.com/package/cliff) - cli formatting
 
 ### Node.js
 
