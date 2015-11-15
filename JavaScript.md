@@ -33,6 +33,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js / CLI
 
+* [meow](https://www.npmjs.com/package/meow) - command line runner
 * [npm-check](https://github.com/dylang/npm-check) - checks for outdated packages
 * [publish-latest](https://github.com/kentcdodds/publish-latest) - publish generated files to a branch
 * [next-update](https://www.npmjs.com/package/next-update) - test new package versions
@@ -49,6 +50,9 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js
 
+* [redent](https://www.npmjs.com/package/redent) - strip redundant indentation
+* [repeating](https://www.npmjs.com/package/repeating) - repeat a string N times
+* [indent-string](https://www.npmjs.com/package/indent-string) - indent a string
 * [ms](https://github.com/rauchg/ms.js) - convert `1 day` to `86400000`
 * [superstatic](https://www.npmjs.com/package/superstatic) - the best static server ever
 * [pathmodify](https://www.npmjs.com/package/pathmodify) - allow `require('app/x')` without `../` in browserify
