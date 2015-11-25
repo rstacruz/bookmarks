@@ -1,6 +1,8 @@
 2015
 ----
 
+* [The story of the MySpace worm](http://samy.pl/popular/tech.html) (samy.pl)
+* [Segment.com engineering best practices](https://segment.com/blog/engineering-best-practices/) (segment.com)
 * [TV Size to Distance](http://www.rtings.com/info/television-size-to-distance-relationship) (rtings.com) - ideal TV sizes based on viewing distance
 * [Formspree](https://formspree.io/) (formspree.io) - form to email, free for 1000 per month
 * [Slacker](http://slacker.ngutechnology.com.au/) (ngutechnology.com.au) - post fake Slack messages
