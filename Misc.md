@@ -1,6 +1,9 @@
 2015
 ----
 
+* [Shaky graphs](https://moe-js.googlecode.com/git/talks/jsconfeu2012/tools/shaky/deploy/shaky.html) (moe-js.googlecode.com) - graphs from ASCII
+* [Antanaclasis](https://en.wikipedia.org/wiki/Antanaclasis) (en.wikipedia.org) - a pun repeating a phrase with a different meaning
+* [Paraprosdokian](https://en.wikipedia.org/wiki/Paraprosdokian) (en.wikipedia.org) - figure of speech where the latter part of a sentence causes the reader to reinterpret the first part
 * [The story of the MySpace worm](http://samy.pl/popular/tech.html) (samy.pl)
 * [Segment.com engineering best practices](https://segment.com/blog/engineering-best-practices/) (segment.com)
 * [TV Size to Distance](http://www.rtings.com/info/television-size-to-distance-relationship) (rtings.com) - ideal TV sizes based on viewing distance
