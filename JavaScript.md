@@ -33,6 +33,8 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js / CLI
 
+* [blessed](https://www.npmjs.com/package/blessed) - ncurses-like terminal interface
+* [blessed-contrib](https://www.npmjs.com/package/blessed-contrib) - graphs and more for blessed
 * [meow](https://www.npmjs.com/package/meow) - command line runner
 * [npm-check](https://github.com/dylang/npm-check) - checks for outdated packages
 * [publish-latest](https://github.com/kentcdodds/publish-latest) - publish generated files to a branch
