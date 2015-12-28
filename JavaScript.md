@@ -31,11 +31,23 @@ JavaScript, Node.js, frontend, and other things related.
 * [overscroll](http://tholman.com/overscroll/) - easter eggs when scrolling beyond the screen edge
 * [vd](https://www.npmjs.com/package/vd) - expressive dom syntax
 
+### JS / Events
+
+* [component-emitter](https://www.npmjs.com/package/component-emitter)
+* [riot-observable](https://www.npmjs.com/package/riot-observable)
+
+### JS / Router
+
+* [riot-route](https://www.npmjs.com/package/riot-route)
+
+### JS / View
+
+* [deku](https://www.npmjs.com/package/deku) - mini-react that's more functional
+* [magic-virtual-element](https://github.com/dekujs/magic-virtual-element) - support for `class` and `style` props in deku
+
 ### Node.js / CLI
 
-* [blessed](https://www.npmjs.com/package/blessed) - ncurses-like terminal interface
-* [blessed-contrib](https://www.npmjs.com/package/blessed-contrib) - graphs and more for blessed
-* [meow](https://www.npmjs.com/package/meow) - command line runner
+* [release-it](https://github.com/webpro/release-it) - npm release helper
 * [npm-check](https://github.com/dylang/npm-check) - checks for outdated packages
 * [publish-latest](https://github.com/kentcdodds/publish-latest) - publish generated files to a branch
 * [next-update](https://www.npmjs.com/package/next-update) - test new package versions
@@ -47,11 +59,18 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js / CLI utilities
 
+* [blessed](https://www.npmjs.com/package/blessed) - ncurses-like terminal interface
+* [blessed-contrib](https://www.npmjs.com/package/blessed-contrib) - graphs and more for blessed
+* [meow](https://www.npmjs.com/package/meow) - command line runner
+* [le-table](https://www.npmjs.com/package/le-table) - another table drawing library
 * [cli-table](https://www.npmjs.com/package/cli-table) - tables with box drawing chars
 * [cliff](https://www.npmjs.com/package/cliff) - cli formatting
 
 ### Node.js
 
+* [hihat](https://www.npmjs.com/package/hihat) - local development in chrome devtools
+* [is-there](https://www.npmjs.com/package/is-there) - fs.exists
+* [sift](https://www.npmjs.com/package/sift) - mongodb-style filtering for JavaScript objects
 * [redent](https://www.npmjs.com/package/redent) - strip redundant indentation
 * [repeating](https://www.npmjs.com/package/repeating) - repeat a string N times
 * [indent-string](https://www.npmjs.com/package/indent-string) - indent a string
