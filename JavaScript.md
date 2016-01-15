@@ -5,6 +5,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Misc
 
+* [number-format.js](https://npmjs.com/package/number-format.js) - `format('#,###.##', 1234.56)` → `'1,234.56'`
 * [React primer](https://github.com/mikechau/react-primer-draft) (github.com)
 * [What have I been missing out on?](http://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo) (reddit.com)
 
@@ -59,6 +60,7 @@ JavaScript, Node.js, frontend, and other things related.
 
 ### Node.js / CLI utilities
 
+* [react-blessed](https://www.npmjs.com/package/react-blessed) - jsx + blessed
 * [blessed](https://www.npmjs.com/package/blessed) - ncurses-like terminal interface
 * [blessed-contrib](https://www.npmjs.com/package/blessed-contrib) - graphs and more for blessed
 * [meow](https://www.npmjs.com/package/meow) - command line runner
@@ -66,9 +68,16 @@ JavaScript, Node.js, frontend, and other things related.
 * [cli-table](https://www.npmjs.com/package/cli-table) - tables with box drawing chars
 * [cliff](https://www.npmjs.com/package/cliff) - cli formatting
 
+### Node.js / testing
+
+* [budo](https://github.com/mattdesl/budo) - kinda like smokestack with watchify
+* [tap-dev-tool](https://www.npmjs.com/package/tap-dev-tool) - pretty tap in browsers
+* [tap-spec](https://www.npmjs.com/package/tap-spec) - most sensible tap reporter I know
+* [smokestack](https://www.npmjs.com/package/smokestack) - `browserify index.js | smokestack --browser chrome`
+* [hihat](https://www.npmjs.com/package/hihat) - local development in chrome devtools
+
 ### Node.js
 
-* [hihat](https://www.npmjs.com/package/hihat) - local development in chrome devtools
 * [is-there](https://www.npmjs.com/package/is-there) - fs.exists
 * [sift](https://www.npmjs.com/package/sift) - mongodb-style filtering for JavaScript objects
 * [redent](https://www.npmjs.com/package/redent) - strip redundant indentation
