@@ -1,6 +1,12 @@
+2016
+----
+
+* [GitHub Stats](http://githubstats.lip.is/) (githubstats.lip.is) - statistics!
+
 2015
 ----
 
+* [Shaky graphs updated](http://shaky.github.bushong.net/) (shaky.github.bushong.net) - new version
 * [Shaky graphs](https://moe-js.googlecode.com/git/talks/jsconfeu2012/tools/shaky/deploy/shaky.html) (moe-js.googlecode.com) - graphs from ASCII
 * [Antanaclasis](https://en.wikipedia.org/wiki/Antanaclasis) (en.wikipedia.org) - a pun repeating a phrase with a different meaning
 * [Paraprosdokian](https://en.wikipedia.org/wiki/Paraprosdokian) (en.wikipedia.org) - figure of speech where the latter part of a sentence causes the reader to reinterpret the first part
