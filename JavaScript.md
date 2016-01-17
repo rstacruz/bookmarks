@@ -3,6 +3,9 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [path-is-inside](https://www.npmjs.com/package/path-is-inside) - check if `/home/me/file.js` is inside `/home/me`
+* [sorted-object](https://www.npmjs.com/package/sorted-object) - sort object keys
+* [wrappy](https://www.npmjs.com/package/wrappy) - function decorator helper to keep static properties
 * [leaked-handles](https://github.com/Raynos/leaked-handles) - check for any leaked timeouts/connections/child processes on tests
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - die on unhandled promise rejections
 * [zenscroll](https://zengabor.github.io/zenscroll/) - scroll things smoothly into view
