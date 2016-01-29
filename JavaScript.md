@@ -3,12 +3,37 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [got](https://github.com/sindresorhus/got) - better, less-bloated, promise-aware `request`
+* [cofy](https://github.com/RocksonZeta/cofy) - kinda like 'promisify-all'
 * [path-is-inside](https://www.npmjs.com/package/path-is-inside) - check if `/home/me/file.js` is inside `/home/me`
 * [sorted-object](https://www.npmjs.com/package/sorted-object) - sort object keys
 * [wrappy](https://www.npmjs.com/package/wrappy) - function decorator helper to keep static properties
 * [leaked-handles](https://github.com/Raynos/leaked-handles) - check for any leaked timeouts/connections/child processes on tests
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - die on unhandled promise rejections
 * [zenscroll](https://zengabor.github.io/zenscroll/) - scroll things smoothly into view
+
+### ANSI
+
+* [slice-ansi](https://github.com/chalk/slice-ansi) - substring with colors
+* [wrap-ansi](https://github.com/chalk/wrap-ansi) - word-wrap with colors
+* [chalk](https://www.npmjs.com/package/chalk) - the colorizer to rule them all
+
+### Koa
+
+* [koa-route](https://npmjs.com/package/koa-route) - `app.use(route.get('/post/:id', function * show (id) {}))`
+* [koa-rewrite](https://npmjs.com/package/koa-rewrite) - `app.use(rewrite('/post/:id', '/posts/$1'))`
+* [koa-static](https://npmjs.com/package/koa-static) - `app.use(koaStatic('public'))`
+* [koa-favicon](https://npmjs.com/package/koa-favicon) - `app.use(koaFavicon('public/favicon.ico'))`
+* [koa-session](https://npmjs.com/package/koa-session) - `app.use(koaSession(app))` + `this.session`
+* [koa-conditional-get](https://github.com/koajs/conditional-get/blob/master/index.js) - return 304 if fresh (for etags and such)
+* [koa-response-time](https://npmjs.com/package/koa-response-time) - X-Response-Time HTTP headers
+* [koa-rate-limit](https://npmjs.com/package/koa-rate-limit) - rate limiting API's
+* [koa-compress](https://npmjs.com/package/koa-compress) - compression
+* [koa-logger](https://npmjs.com/package/koa-logger) - logging
+* [koa-mount](https://github.com/koajs/mount) - mount Koa apps in Koa apps
+* [koa-etag](https://npmjs.com/package/koa-etag) - sets ETag
+* [co-body](https://npmjs.com/package/co-body) - body parsing (JSON et al)
+* [koa-sslify](https://github.com/turboMaCk/koa-sslify) - force SSL
 
 2015
 ----

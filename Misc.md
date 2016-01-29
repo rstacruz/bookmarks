@@ -1,6 +1,7 @@
 2016
 ----
 
+* [dinghy](https://github.com/codekitchen/dinghy) (github.com) - Docker for OSx
 * [GitHub Stats](http://githubstats.lip.is/) (githubstats.lip.is) - statistics!
 
 2015
