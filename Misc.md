@@ -1,6 +1,8 @@
 2016
 ----
 
+* [SoundCloud Material Redesign](https://www.youtube.com/watch?v=dqpmXFHsKQc&feature=youtu.be) (youtube.com) - a demo on doing mockups in Photoshop
+* [Slides](http://designmodo.com/slides/) (designmodo.com) - some sorta toolkit to build landing pages
 * [dinghy](https://github.com/codekitchen/dinghy) (github.com) - Docker for OSx
 * [GitHub Stats](http://githubstats.lip.is/) (githubstats.lip.is) - statistics!
 

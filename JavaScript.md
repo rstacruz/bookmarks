@@ -3,6 +3,9 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [speakingurl](https://www.npmjs.com/package/speakingurl) - slugify, but aware of locales
+* [npm-run-all](https://www.npmjs.com/package/npm-run-all) - run npm tasks in parallel/serial
+* [persistify](https://github.com/royriojas/persistify) - browserify-incremental + watchify wrapper
 * [got](https://github.com/sindresorhus/got) - better, less-bloated, promise-aware `request`
 * [cofy](https://github.com/RocksonZeta/cofy) - kinda like 'promisify-all'
 * [path-is-inside](https://www.npmjs.com/package/path-is-inside) - check if `/home/me/file.js` is inside `/home/me`
@@ -11,6 +14,12 @@ JavaScript, Node.js, frontend, and other things related.
 * [leaked-handles](https://github.com/Raynos/leaked-handles) - check for any leaked timeouts/connections/child processes on tests
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - die on unhandled promise rejections
 * [zenscroll](https://zengabor.github.io/zenscroll/) - scroll things smoothly into view
+
+### CSS
+
+* [doiuse](https://github.com/anandthakker/doiuse) - check for your minimum browser compatibility
+* [precss](https://github.com/jonathantneal/precss) - sass-like syntax for postcss
+* [lost](https://github.com/peterramsing/lost) - jeet-like grid in postcss
 
 ### ANSI
 
