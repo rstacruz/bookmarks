@@ -3,6 +3,8 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [concatenify](https://github.com/trodrigues/concatenify) - browserify with Angular.js (among other things)
+* [exposify](https://github.com/thlorenz/exposify) - alias `window.jQuery` as `require('jquery')`
 * [speakingurl](https://www.npmjs.com/package/speakingurl) - slugify, but aware of locales
 * [npm-run-all](https://www.npmjs.com/package/npm-run-all) - run npm tasks in parallel/serial
 * [persistify](https://github.com/royriojas/persistify) - browserify-incremental + watchify wrapper
