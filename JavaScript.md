@@ -3,6 +3,8 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [tether](https://github.com/HubSpot/tether/) - position elements next to other elements (like tooltips)
+* [tape-catch](https://github.com/michaelrhodes/tape-catch) - catch syntax errors in tape tests
 * [concatenify](https://github.com/trodrigues/concatenify) - browserify with Angular.js (among other things)
 * [exposify](https://github.com/thlorenz/exposify) - alias `window.jQuery` as `require('jquery')`
 * [speakingurl](https://www.npmjs.com/package/speakingurl) - slugify, but aware of locales
