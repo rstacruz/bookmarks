@@ -1,3 +1,10 @@
+2016
+----
+
+* [Mobile-first emails](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.8630ga679) (medium.com) - the magic of `width: calc(8000% - 47600px)`
+* [dunnnk](http://dunnnk.com/) (dunnnk.com) - product mockups, free
+* [Magic Mockups](http://magicmockups.com/) (magicmockups.com) - also product mockups, free
+
 2015
 ----
 
@@ -5,7 +12,6 @@
 * [GoodUI](http://goodui.org/) (goodui.org)
 * [Flat color icons](https://icons8.com/c/flat-color-icons) (icons8.com)
 * [Sass burger](http://joren.co/sass-burger/) (joren.co) - CSS mixin for hamburger menus
-* [dunnnk](http://dunnnk.com/) (dunnnk.com) - product mockups
 * [rupture](https://jenius.github.io/rupture/) (github.io) - media queries in stylus
 * [Loading CSS without blocking render](http://keithclark.co.uk/articles/loading-css-without-blocking-render/) (keithclark.co.uk)
 
