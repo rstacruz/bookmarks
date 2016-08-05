@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [baffle.js](https://camwiegert.github.io/baffle/) - obfuscates text
 * [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - modals in 2016
 * [tether](https://github.com/HubSpot/tether/) - position elements next to other elements (like tooltips)
 * [tape-catch](https://github.com/michaelrhodes/tape-catch) - catch syntax errors in tape tests
