@@ -3,6 +3,10 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [lru-cache](https://www.npmjs.com/package/lru-cache) - a cache object that deletes the least-recently-used items
+* [phantasma](https://www.npmjs.com/package/phantasma) - PhantomJS wrapper
+* [nightmare](https://www.npmjs.com/package/nightmare) - browser automation (like PhantomJS), but based on Electron
+* [local_modules](https://www.npmjs.com/package/local_modules) - use project files as if they're node_modules
 * [baffle.js](https://camwiegert.github.io/baffle/) - obfuscates text
 * [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - modals in 2016
 * [tether](https://github.com/HubSpot/tether/) - position elements next to other elements (like tooltips)
