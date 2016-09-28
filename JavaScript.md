@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [react-redux-form](http://davidkpiano.github.io/react-redux-form/) - Form helpers for React/Redux
 * [lru-cache](https://www.npmjs.com/package/lru-cache) - a cache object that deletes the least-recently-used items
 * [phantasma](https://www.npmjs.com/package/phantasma) - PhantomJS wrapper
 * [nightmare](https://www.npmjs.com/package/nightmare) - browser automation (like PhantomJS), but based on Electron
@@ -11,11 +12,8 @@ JavaScript, Node.js, frontend, and other things related.
 * [dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill) - modals in 2016
 * [tether](https://github.com/HubSpot/tether/) - position elements next to other elements (like tooltips)
 * [tape-catch](https://github.com/michaelrhodes/tape-catch) - catch syntax errors in tape tests
-* [concatenify](https://github.com/trodrigues/concatenify) - browserify with Angular.js (among other things)
-* [exposify](https://github.com/thlorenz/exposify) - alias `window.jQuery` as `require('jquery')`
 * [speakingurl](https://www.npmjs.com/package/speakingurl) - slugify, but aware of locales
 * [npm-run-all](https://www.npmjs.com/package/npm-run-all) - run npm tasks in parallel/serial
-* [persistify](https://github.com/royriojas/persistify) - browserify-incremental + watchify wrapper
 * [got](https://github.com/sindresorhus/got) - better, less-bloated, promise-aware `request`
 * [cofy](https://github.com/RocksonZeta/cofy) - kinda like 'promisify-all'
 * [path-is-inside](https://www.npmjs.com/package/path-is-inside) - check if `/home/me/file.js` is inside `/home/me`
@@ -24,6 +22,13 @@ JavaScript, Node.js, frontend, and other things related.
 * [leaked-handles](https://github.com/Raynos/leaked-handles) - check for any leaked timeouts/connections/child processes on tests
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - die on unhandled promise rejections
 * [zenscroll](https://zengabor.github.io/zenscroll/) - scroll things smoothly into view
+
+### Browserify
+
+* [exposify](https://github.com/thlorenz/exposify) - alias `window.jQuery` as `require('jquery')`
+* [persistify](https://github.com/royriojas/persistify) - browserify-incremental + watchify wrapper
+* [concatenify](https://github.com/trodrigues/concatenify) - browserify with Angular.js (among other things)
+* [require-globify](https://github.com/capaj/require-globify) - Require globs in Browserify (like `concatenify` but with more control)
 
 ### CSS
 
