@@ -3,7 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
-* [react-redux-form](http://davidkpiano.github.io/react-redux-form/) - Form helpers for React/Redux
+* [choices](https://github.com/jshjohnson/Choices) - a vanilla JS customisable select box/text input plugin
 * [lru-cache](https://www.npmjs.com/package/lru-cache) - a cache object that deletes the least-recently-used items
 * [phantasma](https://www.npmjs.com/package/phantasma) - PhantomJS wrapper
 * [nightmare](https://www.npmjs.com/package/nightmare) - browser automation (like PhantomJS), but based on Electron
@@ -14,7 +14,8 @@ JavaScript, Node.js, frontend, and other things related.
 * [tape-catch](https://github.com/michaelrhodes/tape-catch) - catch syntax errors in tape tests
 * [speakingurl](https://www.npmjs.com/package/speakingurl) - slugify, but aware of locales
 * [npm-run-all](https://www.npmjs.com/package/npm-run-all) - run npm tasks in parallel/serial
-* [got](https://github.com/sindresorhus/got) - better, less-bloated, promise-aware `request`
+* [isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch) - fetch() for the browser and Node.js
+* ~~[got](https://github.com/sindresorhus/got) - better, less-bloated, promise-aware `request`~~ use [isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch)
 * [cofy](https://github.com/RocksonZeta/cofy) - kinda like 'promisify-all'
 * [path-is-inside](https://www.npmjs.com/package/path-is-inside) - check if `/home/me/file.js` is inside `/home/me`
 * [sorted-object](https://www.npmjs.com/package/sorted-object) - sort object keys
@@ -22,6 +23,11 @@ JavaScript, Node.js, frontend, and other things related.
 * [leaked-handles](https://github.com/Raynos/leaked-handles) - check for any leaked timeouts/connections/child processes on tests
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - die on unhandled promise rejections
 * [zenscroll](https://zengabor.github.io/zenscroll/) - scroll things smoothly into view
+
+### React
+
+* [react-select](http://jedwatson.github.io/react-select/) - select box dropdown
+* [react-redux-form](http://davidkpiano.github.io/react-redux-form/) - Form helpers for React/Redux
 
 ### Browserify
 
