@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2016
 ----
 
+* [loadjs](https://github.com/muicss/loadjs) - asynchronous JS/CSS loader
 * [choices](https://github.com/jshjohnson/Choices) - a vanilla JS customisable select box/text input plugin
 * [lru-cache](https://www.npmjs.com/package/lru-cache) - a cache object that deletes the least-recently-used items
 * [phantasma](https://www.npmjs.com/package/phantasma) - PhantomJS wrapper
