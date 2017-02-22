@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2017
 ----
 
+* [reselect](https://github.com/reactjs/reselect) - cached data for Redux
 * [sign-bunny](https://www.npmjs.com/package/sign-bunny) - (•ㅅ•)づ
 * [roadtrip](https://github.com/Rich-Harris/roadtrip) - client-side router
 * [fusejs](http://fusejs.io/) - fuzzy search library
