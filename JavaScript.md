@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2017
 ----
 
+* [url-template](https://www.npmjs.com/package/url-template) - rfc6570-compliant url for api's
 * [reselect](https://github.com/reactjs/reselect) - cached data for Redux
 * [sign-bunny](https://www.npmjs.com/package/sign-bunny) - (•ㅅ•)づ
 * [roadtrip](https://github.com/Rich-Harris/roadtrip) - client-side router
