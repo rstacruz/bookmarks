@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2017
 ----
 
+* [react-helmet](https://github.com/nfl/react-helmet) - manage `<head>` tags
 * [react-overdrive](https://github.com/berzniz/react-overdrive) - element-based transitions for React apps
 * [url-template](https://www.npmjs.com/package/url-template) - rfc6570-compliant url for api's
 * [reselect](https://github.com/reactjs/reselect) - cached data for Redux
