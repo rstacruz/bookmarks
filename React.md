@@ -1,7 +1,7 @@
 2017
 ----
 
-* [recompose](https://www.npmjs.com/package/recompose) - states (and other side effects) using functional composition
+* [recompose](https://github.com/acdlite/recompose) - states (and other side effects) using functional composition
 * [immutability-helper](https://github.com/kolodny/immutability-helper) - immutable tools
 * [react-helmet](https://github.com/nfl/react-helmet) - manage `<head>` tags
 * [react-overdrive](https://github.com/berzniz/react-overdrive) - element-based transitions for React apps
