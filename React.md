@@ -1,6 +1,9 @@
 2017
 ----
 
+* [why-did-you-update](https://github.com/garbles/why-did-you-update) - notify me of avoidable re-renders
+* [react-native-animated](https://facebook.github.io/react-native/docs/animated.html) - animations; works for web, too ([example](https://www.webpackbin.com/bins/-KfKys3S2mgEH9UsE8GL))
+* [react-move](https://github.com/tannerlinsley/react-move) - animate anything by interpolating parameters via [d3-interpolate](https://github.com/d3/d3-interpolate)
 * [recompose](https://github.com/acdlite/recompose) - states (and other side effects) using functional composition
 * [immutability-helper](https://github.com/kolodny/immutability-helper) - immutable tools
 * [react-helmet](https://github.com/nfl/react-helmet) - manage `<head>` tags

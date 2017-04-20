@@ -3,6 +3,8 @@ JavaScript, Node.js, frontend, and other things related.
 2017
 ----
 
+* [nsp](https://www.npmjs.com/package/nsp) - check for package vulnerabilities via nodesecurity.io
+* [nedb](https://github.com/louischatriot/nedb) - mongoDB in JavaScript
 * [project-name-generator](https://github.com/aceakash/project-name-generator) - uptight-guitar-2831
 * [zangodb](https://github.com/erikolson186/zangodb) - like mongoDB, but for the browser
 * [localforage](https://localforage.github.io/localForage/) - local storage with more types
