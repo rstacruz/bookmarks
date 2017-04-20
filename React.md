@@ -1,6 +1,7 @@
 2017
 ----
 
+* [nwb](https://www.npmjs.com/package/nwb) - curated zero-config Webpack distribution for React, Inferno or Preact
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) - notify me of avoidable re-renders
 * [react-native-animated](https://facebook.github.io/react-native/docs/animated.html) - animations; works for web, too ([example](https://www.webpackbin.com/bins/-KfKys3S2mgEH9UsE8GL))
 * [react-move](https://github.com/tannerlinsley/react-move) - animate anything by interpolating parameters via [d3-interpolate](https://github.com/d3/d3-interpolate)
