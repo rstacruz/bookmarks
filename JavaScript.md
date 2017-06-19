@@ -3,19 +3,23 @@ JavaScript, Node.js, frontend, and other things related.
 2017
 ----
 
-* [nsp](https://www.npmjs.com/package/nsp) - check for package vulnerabilities via nodesecurity.io
+* [are-we-flow-yet](https://github.com/tmcw/are-we-flow-yet) - list files not flow-annotated
+* [documentation](https://github.com/documentationjs/documentation) - jsdoc parser
+* [ignore-styles](https://www.npmjs.com/package/ignore-styles) - make `require('./foo.css')` a noop for interop of Node & Webpack
 * [nedb](https://github.com/louischatriot/nedb) - mongoDB in JavaScript
 * [project-name-generator](https://github.com/aceakash/project-name-generator) - uptight-guitar-2831
 * [zangodb](https://github.com/erikolson186/zangodb) - like mongoDB, but for the browser
 * [localforage](https://localforage.github.io/localForage/) - local storage with more types
 * [worker-farm](https://www.npmjs.com/package/worker-farm) - speed up embarassingly-parallel processes
-* [react-helmet](https://github.com/nfl/react-helmet) - manage `<head>` tags
-* [react-overdrive](https://github.com/berzniz/react-overdrive) - element-based transitions for React apps
 * [url-template](https://www.npmjs.com/package/url-template) - rfc6570-compliant url for api's
-* [reselect](https://github.com/reactjs/reselect) - cached data for Redux
 * [sign-bunny](https://www.npmjs.com/package/sign-bunny) - (•ㅅ•)づ
 * [roadtrip](https://github.com/Rich-Harris/roadtrip) - client-side router
 * [fusejs](http://fusejs.io/) - fuzzy search library
+
+### Managing projects
+
+* [plop](https://www.npmjs.com/package/plop) - generators via handlebar templates
+* [nsp](https://www.npmjs.com/package/nsp) - check for package vulnerabilities via nodesecurity.io
 
 2016
 ----
@@ -41,11 +45,6 @@ JavaScript, Node.js, frontend, and other things related.
 * [leaked-handles](https://github.com/Raynos/leaked-handles) - check for any leaked timeouts/connections/child processes on tests
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - die on unhandled promise rejections
 * [zenscroll](https://zengabor.github.io/zenscroll/) - scroll things smoothly into view
-
-### React
-
-* [react-select](http://jedwatson.github.io/react-select/) - select box dropdown
-* [react-redux-form](http://davidkpiano.github.io/react-redux-form/) - Form helpers for React/Redux
 
 ### Browserify
 
@@ -89,7 +88,6 @@ JavaScript, Node.js, frontend, and other things related.
 ### Misc
 
 * [number-format.js](https://npmjs.com/package/number-format.js) - `format('#,###.##', 1234.56)` → `'1,234.56'`
-* [React primer](https://github.com/mikechau/react-primer-draft) (github.com)
 * [What have I been missing out on?](http://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo) (reddit.com)
 
 ### Frontend

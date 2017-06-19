@@ -1,6 +1,8 @@
 2017
 ----
 
+* [CSS-in-JS benchmarks](https://github.com/A-gambit/CSS-IN-JS-Benchmarks/blob/master/RESULT.md) - Comparing performance of CSS-in-JS libs
+* [cxs](https://github.com/jxnblk/cxs) - `className = cxs({ color: 'red' })`
 * [nwb](https://www.npmjs.com/package/nwb) - curated zero-config Webpack distribution for React, Inferno or Preact
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) - notify me of avoidable re-renders
 * [react-native-animated](https://facebook.github.io/react-native/docs/animated.html) - animations; works for web, too ([example](https://www.webpackbin.com/bins/-KfKys3S2mgEH9UsE8GL))
@@ -9,6 +11,9 @@
 * [immutability-helper](https://github.com/kolodny/immutability-helper) - immutable tools
 * [react-helmet](https://github.com/nfl/react-helmet) - manage `<head>` tags
 * [react-overdrive](https://github.com/berzniz/react-overdrive) - element-based transitions for React apps
+
+### Redux
+
 * [reselect](https://github.com/reactjs/reselect) - cached data for Redux
 
 ### Components
