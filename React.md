@@ -1,6 +1,7 @@
 2017
 ----
 
+* [electron-devtools-installer](https://www.npmjs.com/package/electron-devtools-installer) - easily install React devtools into an Electron app
 * [react-idle](https://github.com/ReactTraining/react-idle) - Notify when react is idle
 * [nwb](https://www.npmjs.com/package/nwb) - curated zero-config Webpack distribution for React, Inferno or Preact
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) - notify me of avoidable re-renders
