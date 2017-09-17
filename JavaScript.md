@@ -3,7 +3,10 @@ JavaScript, Node.js, frontend, and other things related.
 2017
 ----
 
-* [are-we-flow-yet](https://github.com/tmcw/are-we-flow-yet) - list files not flow-annotated
+* [cosmiconfig](https://www.npmjs.com/package/cosmiconfig) - flexible configuration for npm packages
+* [please-upgrade-node](https://github.com/typicode/please-upgrade-node) - print a message when Node.js is outdated
+* [nanoid](https://github.com/ai/nanoid) - unique ID generator, very small
+* [flow-coverage-report](https://www.npmjs.com/package/flow-coverage-report) - visualize how much of your project is flow'd
 * [documentation](https://github.com/documentationjs/documentation) - jsdoc parser
 * [ignore-styles](https://www.npmjs.com/package/ignore-styles) - make `require('./foo.css')` a noop for interop of Node & Webpack
 * [nedb](https://github.com/louischatriot/nedb) - mongoDB in JavaScript
