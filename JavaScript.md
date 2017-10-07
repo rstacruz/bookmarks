@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2017
 ----
 
+* [json-autosave](https://www.npmjs.com/package/json-autosave) - `autosave('stats.json').data = { a: 1 }`
 * [gemoji](https://github.com/wooorm/gemoji) - `gemoji.name.cat.emoji == 🐱`
 * [cosmiconfig](https://www.npmjs.com/package/cosmiconfig) - flexible configuration for npm packages
 * [please-upgrade-node](https://github.com/typicode/please-upgrade-node) - print a message when Node.js is outdated

@@ -1,6 +1,8 @@
 2017
 ----
 
+* [halogenium](https://github.com/kirillDanshin/halogenium) - a React v16 compatible version of halogen ([demo](https://kirilldanshin.github.io/halogenium))
+* ~~[halogen](https://github.com/yuanyan/halogen) - loading spinners for React (up to v0.14)~~
 * [electron-devtools-installer](https://www.npmjs.com/package/electron-devtools-installer) - easily install React devtools into an Electron app
 * [react-idle](https://github.com/ReactTraining/react-idle) - Notify when react is idle
 * [nwb](https://www.npmjs.com/package/nwb) - curated zero-config Webpack distribution for React, Inferno or Preact
