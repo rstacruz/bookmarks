@@ -1,6 +1,7 @@
 2016
 ----
 
+* [bootleg](https://github.com/labzero/bootleg) - deployment (like Capistrano)
 * [exvcr](https://hex.pm/packages/exvcr) - record and playback HTTP responses
 * [quantum](https://hex.pm/packages/quantum) - cron-like scheduler
 * [floki](https://github.com/philss/floki) - html parser
