@@ -30,7 +30,7 @@
 ### Techno
 
 - [Dark Monkey: Minimal Techno](https://www.youtube.com/watch?v=KJrkcAfTjE0)
-
+- [Trippy Cat: Techno Minimal House](https://www.youtube.com/watch?v=kA0VEiyF_EM)
 
 ### Jazz
 
