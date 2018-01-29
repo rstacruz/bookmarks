@@ -1,3 +1,8 @@
+2018
+----
+
+* [mathiasbynens' macos customizations](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) (github.com)
+
 2016
 ----
 

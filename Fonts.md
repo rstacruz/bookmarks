@@ -65,3 +65,4 @@ Mono
 - [Anaheim](https://fonts.google.com/specimen/Anaheim) (ish)
 - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 - [PT Mono](https://fonts.google.com/specimen/PT+Mono)
+- [Lekton](https://fonts.google.com/specimen/Lekton/)
