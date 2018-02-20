@@ -2,12 +2,13 @@
 
 > These are 24/7 live radio streams on YouTube.
 
-### Chillhop
+### Lofi Hiphop
 
 - [Chillhop Cafe](https://www.youtube.com/watch?v=VQ9i-V2i6W0)
 - [Lofi Hiphop](https://www.youtube.com/watch?v=AQBh9soLSkI)
 - [Nourish: Lofi](https://www.youtube.com/watch?v=2L9vFNMvIBE)
 - [R&B Radio](https://www.youtube.com/watch?v=kCziHoCBrug)
+- [Calm Radio - Lofi Hiphop 24/7](https://www.youtube.com/watch?v=fxn8p26WTR4)
 
 ### Downtempo
 
