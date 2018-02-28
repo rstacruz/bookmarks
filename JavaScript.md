@@ -1,5 +1,15 @@
 JavaScript, Node.js, frontend, and other things related.
 
+2018
+----
+
+* [page-icon](https://yarnpkg.com/en/package/page-icon) - detect a site's favicon
+* [sanitize-filename](https://yarnpkg.com/en/package/sanitize-filename) - remove weird unicode
+* [validator](https://yarnpkg.com/en/package/validator) - `validator.isEmail('hi@gmail.com')` (and more)
+* [hasbin](https://yarnpkg.com/en/package/hasbin) - find bins in $PATH like `which`
+* [nativefier](https://yarnpkg.com/en/package/nativefier) - generates "native" apps for websites (eg, webcatalog)
+* [file-or-stdin](https://yarnpkg.com/en/package/file-or-stdin) - `read('file.txt').then(data => { ... })`
+
 2017
 ----
 
@@ -341,4 +351,3 @@ JavaScript, Node.js, frontend, and other things related.
 
 * [rimraf](https://npmjs.org/package/rimraf) - rm -rf
 * [mkdirp](https://npmjs.org/package/mkdirp) - mkdirp
-
