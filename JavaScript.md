@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2018
 ----
 
+- [yurnalist](https://yarnpkg.com/en/package/yurnalist) - cli reporter inspired by yarn
 * [bili](https://www.npmjs.com/package/bili) - zero-config rollup + buble for libraries
 * [page-icon](https://yarnpkg.com/en/package/page-icon) - detect a site's favicon
 * [sanitize-filename](https://yarnpkg.com/en/package/sanitize-filename) - remove weird unicode
