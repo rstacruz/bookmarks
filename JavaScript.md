@@ -3,6 +3,7 @@ JavaScript, Node.js, frontend, and other things related.
 2018
 ----
 
+- [node-emoji](https://github.com/omnidan/node-emoji) - `emoji.get('hi :cat:') == 'hi 🐱'`, and backwards
 - [yurnalist](https://yarnpkg.com/en/package/yurnalist) - cli reporter inspired by yarn
 * [bili](https://www.npmjs.com/package/bili) - zero-config rollup + buble for libraries
 * [page-icon](https://yarnpkg.com/en/package/page-icon) - detect a site's favicon
