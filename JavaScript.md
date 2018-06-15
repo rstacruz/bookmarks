@@ -3,6 +3,9 @@ JavaScript, Node.js, frontend, and other things related.
 2018
 ----
 
+- [focus-trap](https://github.com/davidtheclark/focus-trap) - supress refocusing with tab
+* [catalog](http://www.catalog.style/) - living styleguides with Markdown :heart_eyes:
+- [clear-cut](https://github.com/atom/clear-cut) - calculate specificity of CSS selectors
 - [node-emoji](https://github.com/omnidan/node-emoji) - `emoji.get('hi :cat:') == 'hi 🐱'`, and backwards
 - [yurnalist](https://yarnpkg.com/en/package/yurnalist) - cli reporter inspired by yarn
 * [bili](https://www.npmjs.com/package/bili) - zero-config rollup + buble for libraries
