@@ -2,6 +2,12 @@
 ----
 
 * [mathiasbynens' macos customizations](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) (github.com)
+* [Nullpomino wiki](http://harddrop.com/wiki/NullpoMino)
+* [Nullpomino guide](http://harddrop.com/forums/index.php?showtopic=2317)
+* [Nullpomino forks and mods](http://harddrop.com/wiki/NullpoMino_Forks_and_Mods)
+* [Tetris stacking](http://tetris.wikia.com/wiki/Tetris_Stacking)
+* [Tetris stacking](https://www.ryanheise.com/tetris/tetris_stacking.html)
+* [SRS rotation](http://tetris.wikia.com/wiki/SRS)
 
 2016
 ----
