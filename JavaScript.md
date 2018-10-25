@@ -16,6 +16,8 @@ JavaScript, Node.js, frontend, and other things related.
 * [nativefier](https://yarnpkg.com/en/package/nativefier) - generates "native" apps for websites (eg, webcatalog)
 * [file-or-stdin](https://yarnpkg.com/en/package/file-or-stdin) - `read('file.txt').then(data => { ... })`
 * [immer](https://github.com/mweststrate/immer) - make immutable updates with mutable API
+* [klipse](https://github.com/viebel/klipse) - live code playground
+* [figlet](https://www.npmjs.com/package/figlet) - cli fonts
 
 2017
 ----
