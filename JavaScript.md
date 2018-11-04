@@ -19,6 +19,7 @@ JavaScript, Node.js, frontend, and other things related.
 - [figlet](https://www.npmjs.com/package/figlet) - cli fonts
 - [electron-webpack](https://yarnpkg.com/en/package/electron-webpack) - use webpack with electron
 - [carlo](https://yarnpkg.com/en/package/carlo) - like Electron but cooler
+- [hashmark](https://yarnpkg.com/en/package/hashmark) - add hash fingerprints to filenames
 
 ## 2017
 
