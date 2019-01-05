@@ -1,3 +1,7 @@
+## 2019
+
+- [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts/blob/master/README.md)
+
 ## 2018
 
 - [mathiasbynens' macos customizations](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) (github.com)
@@ -177,10 +181,10 @@
 
 - [Preen](http://anomiesoftware.com/Anomie_Software/Preen.html) - Plex skin manager
 - [Spectacle](http://www.spectacleapp.com) - window manager (like Divvy or Sizeup) - free
-- [Sketch](http://www.bohemiancoding.com/sketch/) - CSS-like image editor - $49
+- [Sketch](http://www.bohemiancoding.com/sketch/) - CSS-like image editor - \$49
 - [Mountain Tweaks](http://tweaksapp.com/app/mountain-tweaks/) - Tweaks for Mountain Lion - free
 - [Shortcat](http://shortcatapp.com/) - keyboard shortcuts for everything
 - [Bowtie](http://bowtieapp.com/) - show and control music in the desktop - free
 - [AppCleaner](http://www.freemacsoft.net/AppCleaner/) - app uninstaller - free
-- [Foreman](http://www.flyingmachinestudios.com/foreman/) - auto-close apps - $6.49
+- [Foreman](http://www.flyingmachinestudios.com/foreman/) - auto-close apps - \$6.49
 - [ReduxEncoder](http://duckduckgo.com/?q=reduxencoder) - Video converter
