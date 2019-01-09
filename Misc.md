@@ -1,6 +1,7 @@
 ## 2019
 
-- [Bitwig Studio](https://www.bitwig.com/en/home.html) - DAW for linux
+- [Tracktion Waveform](https://www.tracktion.com/products/waveform) - DAW for Linux
+- [Bitwig Studio](https://www.bitwig.com/en/home.html) - DAW for Linux
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts/blob/master/README.md)
 
 ## 2018
