@@ -1,5 +1,6 @@
 ## 2019
 
+- [Bitwig Studio](https://www.bitwig.com/en/home.html) - DAW for linux
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts/blob/master/README.md)
 
 ## 2018

@@ -1,5 +1,9 @@
 JavaScript, Node.js, frontend, and other things related.
 
+## 2019
+
+- [minimalanalytics](https://minimalanalytics.com/) - google analytics in 1.5kb
+
 ## 2018
 
 - [focus-trap](https://github.com/davidtheclark/focus-trap) - supress refocusing with tab
@@ -11,7 +15,7 @@ JavaScript, Node.js, frontend, and other things related.
 - [page-icon](https://yarnpkg.com/en/package/page-icon) - detect a site's favicon
 - [sanitize-filename](https://yarnpkg.com/en/package/sanitize-filename) - remove weird unicode
 - [validator](https://yarnpkg.com/en/package/validator) - `validator.isEmail('hi@gmail.com')` (and more)
-- [hasbin](https://yarnpkg.com/en/package/hasbin) - find bins in $PATH like `which`
+- [hasbin](https://yarnpkg.com/en/package/hasbin) - find bins in \$PATH like `which`
 - [nativefier](https://yarnpkg.com/en/package/nativefier) - generates "native" apps for websites (eg, webcatalog)
 - [file-or-stdin](https://yarnpkg.com/en/package/file-or-stdin) - `read('file.txt').then(data => { ... })`
 - [immer](https://github.com/mweststrate/immer) - make immutable updates with mutable API
@@ -216,7 +220,7 @@ JavaScript, Node.js, frontend, and other things related.
 - [package-json-to-readme](https://github.com/zeke/package-json-to-readme) - parse dependencies
 - [dashdash](https://github.com/trentm/node-dashdash) - option parser
 - [gulp-concat-filenames](https://www.npmjs.com/package/gulp-concat-filenames/) - makes import globbing possible
-- [object-assign](https://www.npmjs.com/package/object-assign) - ES6 Object.assign (like $.extend)
+- [object-assign](https://www.npmjs.com/package/object-assign) - ES6 Object.assign (like \$.extend)
 - [brstar](https://www.npmjs.com/package/brstar) - pre-rendering browserify transformations
 - [napa](https://www.npmjs.com/package/napa) - use bower packages like npm packages
 - [ga](https://www.npmjs.com/package/ga) - server-side google analytics
