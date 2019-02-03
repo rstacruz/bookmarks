@@ -2,6 +2,8 @@
 ----
 
 * [Mockuptime](https://mockuptime.com/) (mockuptime.com) - product mockups, free
+* [Patternlibrary](http://thepatternlibrary.com/) (thepatternlibrary.com)
+
 2016
 ----
 
